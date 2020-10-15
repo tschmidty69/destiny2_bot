@@ -1,0 +1,8 @@
+pywin32
+keyboard
+pygame
+Pillow
+imutils
+numpy
+opencv-python
+pyautogui
